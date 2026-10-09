@@ -1,0 +1,6 @@
+{
+  "version": "1.149.0",
+  "buildDate": "2026-10-09",
+  "changelog": "Updates now come straight from GitHub — no laptop or Tailscale needed. Sainyu checks for new versions over the internet from anywhere, and this release switches you over automatically. You can still point it elsewhere in Me → App Updates. Plus: photos on time entries, and automatic maps + photos + link previews from what you type.",
+  "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
+}

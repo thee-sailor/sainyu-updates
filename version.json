@@ -1,6 +1,6 @@
 {
-  "version": "1.150.0",
+  "version": "1.151.0",
   "buildDate": "2026-10-11",
-  "changelog": "Update notification + in-app update pop-up; entry enrichment now shows photos of anything (movies, dishes, events) via web search, and the place map has a draggable pin for the exact spot.",
+  "changelog": "Photos now attach automatically: the most fitting photo is added to your entry, and you can add more or remove it.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

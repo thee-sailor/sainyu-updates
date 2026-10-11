@@ -1,6 +1,6 @@
 {
-  "version": "1.155.0",
+  "version": "1.156.0",
   "buildDate": "2026-10-11",
-  "changelog": "Pasted YouTube/TikTok/Vimeo links now preview as an inline player; other links as a card. Tapping opens in Sainyu's in-app browser.",
+  "changelog": "Video thumbnails on saved entries (video first, then photos); tapping plays in Sainyu's in-app browser, not the YouTube app. Share Sainyu moved to the bottom of the Me tab.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

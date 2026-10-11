@@ -1,6 +1,6 @@
 {
-  "version": "1.152.0",
+  "version": "1.153.0",
   "buildDate": "2026-10-11",
-  "changelog": "Fix: the new-version notification and update pop-up now reliably appear when you open the app.",
+  "changelog": "Paste a link into a time entry and it previews instantly as a tappable card (title + image), now including www. links.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

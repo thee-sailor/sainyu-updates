@@ -1,6 +1,6 @@
 {
-  "version": "1.157.0",
+  "version": "1.158.0",
   "buildDate": "2026-10-11",
-  "changelog": "Google Drive backup polished: clearer 'your own Drive' one-tap connect, and connecting on a new phone offers to restore instead of overwriting the backup.",
+  "changelog": "Fix: Ask AI with a photo works again (vision model id was stale). Audited the chatbot — text chat, all 32 tools, key rotation and fallbacks verified.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

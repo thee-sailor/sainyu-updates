@@ -1,6 +1,6 @@
 {
-  "version": "1.156.0",
+  "version": "1.157.0",
   "buildDate": "2026-10-11",
-  "changelog": "Video thumbnails on saved entries (video first, then photos); tapping plays in Sainyu's in-app browser, not the YouTube app. Share Sainyu moved to the bottom of the Me tab.",
+  "changelog": "Google Drive backup polished: clearer 'your own Drive' one-tap connect, and connecting on a new phone offers to restore instead of overwriting the backup.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

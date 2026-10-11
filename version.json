@@ -1,6 +1,6 @@
 {
-  "version": "1.151.0",
+  "version": "1.152.0",
   "buildDate": "2026-10-11",
-  "changelog": "Photos now attach automatically: the most fitting photo is added to your entry, and you can add more or remove it.",
+  "changelog": "Fix: the new-version notification and update pop-up now reliably appear when you open the app.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

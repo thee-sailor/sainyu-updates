@@ -1,6 +1,6 @@
 {
-  "version": "1.154.0",
+  "version": "1.155.0",
   "buildDate": "2026-10-11",
-  "changelog": "New: Share Sainyu button in the Me tab — send the app to a friend with a download link.",
+  "changelog": "Pasted YouTube/TikTok/Vimeo links now preview as an inline player; other links as a card. Tapping opens in Sainyu's in-app browser.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

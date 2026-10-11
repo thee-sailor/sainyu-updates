@@ -1,6 +1,6 @@
 {
-  "version": "1.149.0",
-  "buildDate": "2026-10-09",
-  "changelog": "Updates now come straight from GitHub — no laptop or Tailscale needed. Sainyu checks for new versions over the internet from anywhere, and this release switches you over automatically. You can still point it elsewhere in Me → App Updates. Plus: photos on time entries, and automatic maps + photos + link previews from what you type.",
+  "version": "1.150.0",
+  "buildDate": "2026-10-11",
+  "changelog": "Update notification + in-app update pop-up; entry enrichment now shows photos of anything (movies, dishes, events) via web search, and the place map has a draggable pin for the exact spot.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

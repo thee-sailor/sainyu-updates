@@ -1,6 +1,6 @@
 {
-  "version": "1.158.0",
-  "buildDate": "2026-10-11",
-  "changelog": "Fix: Ask AI with a photo works again (vision model id was stale). Audited the chatbot — text chat, all 32 tools, key rotation and fallbacks verified.",
+  "version": "1.159.0",
+  "buildDate": "2026-10-12",
+  "changelog": "Ask AI can now open links in the in-app browser (new open_link action). Audit confirmed reminders, open-screen, book downloads and other AI actions work.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

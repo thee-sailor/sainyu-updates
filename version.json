@@ -1,6 +1,6 @@
 {
-  "version": "1.159.0",
-  "buildDate": "2026-10-12",
-  "changelog": "Ask AI can now open links in the in-app browser (new open_link action). Audit confirmed reminders, open-screen, book downloads and other AI actions work.",
+  "version": "1.160.0",
+  "buildDate": "2026-10-16",
+  "changelog": "Fix: Ask AI 'model not available in your subscription tier' error — the Mistral fallback now uses a free-tier model (mistral-small-latest), and tier/model errors show a clean message instead of raw JSON.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

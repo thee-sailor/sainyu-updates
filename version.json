@@ -1,6 +1,6 @@
 {
-  "version": "1.161.0",
+  "version": "1.162.0",
   "buildDate": "2026-10-16",
-  "changelog": "Anki stats section in the Me tab (cards today, due now, 7-day reviewed chart, decks due) + View stats shortcut for the pet/floating button",
+  "changelog": "Anki stats: per-deck review forecast (due today / in a week / in a month) + all-decks total + tap-to-open list of cards due today; forecast computed by the desktop add-on and synced in",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

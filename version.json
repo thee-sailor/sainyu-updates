@@ -1,6 +1,6 @@
 {
-  "version": "1.160.0",
+  "version": "1.161.0",
   "buildDate": "2026-10-16",
-  "changelog": "Fix: Ask AI 'model not available in your subscription tier' error — the Mistral fallback now uses a free-tier model (mistral-small-latest), and tier/model errors show a clean message instead of raw JSON.",
+  "changelog": "Anki stats section in the Me tab (cards today, due now, 7-day reviewed chart, decks due) + View stats shortcut for the pet/floating button",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

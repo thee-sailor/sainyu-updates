@@ -1,6 +1,6 @@
 {
-  "version": "1.163.0",
+  "version": "1.164.0",
   "buildDate": "2026-10-20",
-  "changelog": "App usage logs as per-app time entries (Me → Screen Time) + automatic logs (Anki, walk, apps, reading) auto-attach a fitting image",
+  "changelog": "Fix: v1.163 hang/crash loop — auto-image enrichment now runs paced in the background over recent entries only, instead of flooding the app with the whole history on startup",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.162.0",
-  "buildDate": "2026-10-16",
-  "changelog": "Anki stats: per-deck review forecast (due today / in a week / in a month) + all-decks total + tap-to-open list of cards due today; forecast computed by the desktop add-on and synced in",
+  "version": "1.163.0",
+  "buildDate": "2026-10-20",
+  "changelog": "App usage logs as per-app time entries (Me → Screen Time) + automatic logs (Anki, walk, apps, reading) auto-attach a fitting image",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/latest/sainyu.apk"
 }

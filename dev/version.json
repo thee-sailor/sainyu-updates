@@ -1,6 +1,6 @@
 {
-  "version": "1.165.0",
-  "buildDate": "2026-10-20",
-  "changelog": "App-type categories for app usage (Social/Entertainment/Comms/Productivity/Games/News/Reading/Shopping) + real app icons in Screen Time",
+  "version": "1.166.0",
+  "buildDate": "2026-10-21",
+  "changelog": "Fix: survive Android WebView render-process death (the 'WebView caused Sainyu to crash' dialog) by handling onRenderProcessGone and reloading instead of crashing",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

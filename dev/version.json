@@ -1,6 +1,6 @@
 {
-  "version": "1.166.0",
+  "version": "1.168.0",
   "buildDate": "2026-10-21",
-  "changelog": "Fix: survive Android WebView render-process death (the 'WebView caused Sainyu to crash' dialog) by handling onRenderProcessGone and reloading instead of crashing",
+  "changelog": "Fix: the crash/reload loop after v1.163-1.166 was a full-resolution photo decoding to tens of MB and running the app out of memory on launch. Sainyu now clears oversized leftover photos on startup (by real pixel size), downscales new photos, and the WebView recovery no longer loops.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

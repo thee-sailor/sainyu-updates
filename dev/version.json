@@ -1,6 +1,6 @@
 {
-  "version": "1.169.0",
-  "buildDate": "2026-10-21",
-  "changelog": "Fix: the top bar and bottom tab bar no longer overlap the status bar and navigation bar — Sainyu reads the real system-bar sizes from Android and spaces content correctly on every WebView version. (Also includes the v1.168 out-of-memory crash fix.)",
+  "version": "1.170.0",
+  "buildDate": "2026-10-22",
+  "changelog": "Fix: PDF pages no longer render blank. On high-DPI screens each page was drawn at a size too large for the device to allocate (a ~59MB canvas), so it came out empty; pages are now rendered within a safe size/memory budget at the same on-screen size.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

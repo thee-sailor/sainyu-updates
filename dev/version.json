@@ -1,6 +1,6 @@
 {
-  "version": "1.170.0",
-  "buildDate": "2026-10-22",
-  "changelog": "Fix: PDF pages no longer render blank. On high-DPI screens each page was drawn at a size too large for the device to allocate (a ~59MB canvas), so it came out empty; pages are now rendered within a safe size/memory budget at the same on-screen size.",
+  "version": "1.173.0",
+  "buildDate": "2026-10-23",
+  "changelog": "New: choose a custom book cover from your gallery (book ⋮ menu → Choose cover image), great for old books with dull black covers. Fix: PDF pages rendered blank — pdf.js 6.2 used a brand-new JS method (Map.prototype.getOrInsertComputed) missing from some WebView builds; now polyfilled so PDFs render.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.176.0",
+  "version": "1.177.0",
   "buildDate": "2026-10-24",
-  "changelog": "Phone agent: permission-gated completion — presses final Send/Submit/Delete only when the user authorises it (control_phone 'complete' flag), otherwise stops before it. Dev-only.",
+  "changelog": "Ask AI: Google Gemini provider via its OpenAI-compat endpoint — key-pool + overridable model (gemini-flash-latest) + 'Use Gemini first' toggle; joins the Groq/Mistral rotation.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

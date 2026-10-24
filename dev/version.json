@@ -1,6 +1,6 @@
 {
-  "version": "1.175.0",
+  "version": "1.176.0",
   "buildDate": "2026-10-24",
-  "changelog": "Dev-only Tier-2: Ask AI can operate the phone's UI (accessibility agent) — read screen, tap/type/scroll in the foreground app for tasks like replying inside an email thread. Bounded, won't press Send. Phase 1.",
+  "changelog": "Phone agent: permission-gated completion — presses final Send/Submit/Delete only when the user authorises it (control_phone 'complete' flag), otherwise stops before it. Dev-only.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.177.0",
+  "version": "1.178.0",
   "buildDate": "2026-10-24",
-  "changelog": "Ask AI: Google Gemini provider via its OpenAI-compat endpoint — key-pool + overridable model (gemini-flash-latest) + 'Use Gemini first' toggle; joins the Groq/Mistral rotation.",
+  "changelog": "Phone agent: universal + completes actions — can open any app (open_app action), route 'do/send it in app X' to control_phone instead of the prefill tools, and press final Send/Order/Play when authorised. Dev-only.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

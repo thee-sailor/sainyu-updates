@@ -1,6 +1,6 @@
 {
-  "version": "1.173.0",
-  "buildDate": "2026-10-23",
-  "changelog": "New: choose a custom book cover from your gallery (book ⋮ menu → Choose cover image), great for old books with dull black covers. Fix: PDF pages rendered blank — pdf.js 6.2 used a brand-new JS method (Map.prototype.getOrInsertComputed) missing from some WebView builds; now polyfilled so PDFs render.",
+  "version": "1.174.0",
+  "buildDate": "2026-10-24",
+  "changelog": "Dev-only: Ask AI can drive other apps — compose email/SMS/WhatsApp pre-filled, share text, open an app (Tier-1 intents, gated to dev builds). Plus custom book cover picker + PDF blank-page fix.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

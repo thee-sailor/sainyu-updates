@@ -1,6 +1,6 @@
 {
-  "version": "1.180.0",
+  "version": "1.181.0",
   "buildDate": "2026-10-25",
-  "changelog": "Gemini: disable thinking (fixes thought_signature 400), roll over 503s, and auto-pick the model (removed the manual model box).",
+  "changelog": "Gemini tool calling fix: round-trip the thought_signature (extra_content) so thinking models can run tools / drive apps.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

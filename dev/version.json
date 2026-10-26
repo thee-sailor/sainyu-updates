@@ -1,6 +1,6 @@
 {
-  "version": "1.182.0",
+  "version": "1.183.0",
   "buildDate": "2026-10-26",
-  "changelog": "Name the phone-automation feature Sainyu Pilot (chip + working status + completion); fix tap index-drift so Pilot acts on the exact screen it last read.",
+  "changelog": "API keys page redesign with colour-coded status dots; alphabetical Me-tab; skip bad keys (one rejected key no longer breaks Ask AI) + distinguishable key display; Error Log with txt/csv download.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.183.0",
-  "buildDate": "2026-10-26",
-  "changelog": "API keys page redesign with colour-coded status dots; alphabetical Me-tab; skip bad keys (one rejected key no longer breaks Ask AI) + distinguishable key display; Error Log with txt/csv download.",
+  "version": "1.184.0",
+  "buildDate": "2026-10-29",
+  "changelog": "Fractional habit streaks: item habits (books/links/apps) add today's partial progress as a fraction (22 + 1/2 = 22½).",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

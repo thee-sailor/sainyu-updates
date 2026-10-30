@@ -1,6 +1,6 @@
 {
-  "version": "1.185.0",
-  "buildDate": "2026-10-29",
-  "changelog": "Ask AI speed (leaner per-request payload: 14-day summary + last-16-message history); Pilot never auto-presses destructive/money buttons; Accessibility one-tap re-enable banner.",
+  "version": "1.186.0",
+  "buildDate": "2026-10-30",
+  "changelog": "Response timer in Ask AI + Pilot; live plan checklist; Pilot working-glow overlay.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "1.187.0",
+  "version": "1.188.0",
   "buildDate": "2026-10-30",
-  "changelog": "Fix Stop button for AI/Pilot (run state lifted to module scope, survives tab switch; Stop halts Pilot too); completion notification when backgrounded; glow recolours on theme change.",
+  "changelog": "Pilot foreground service (keeps WebView loop alive backgrounded + persistent notification with Stop + wake lock); plan checklist fires for multi-step; timer shows h/m/s past a minute.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

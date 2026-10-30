@@ -1,6 +1,6 @@
 {
-  "version": "1.188.0",
+  "version": "1.189.0",
   "buildDate": "2026-10-30",
-  "changelog": "Pilot foreground service (keeps WebView loop alive backgrounded + persistent notification with Stop + wake lock); plan checklist fires for multi-step; timer shows h/m/s past a minute.",
+  "changelog": "Pilot speed: native sleep (fixes backgrounded setTimeout throttle), WhatsApp/SMS deep-link fast-path + native Send tap, fast Groq model (low reasoning, capped tokens, temp 0), smaller screen context + shorter settles.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }

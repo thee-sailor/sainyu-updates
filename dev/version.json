@@ -1,6 +1,6 @@
 {
-  "version": "1.190.0",
-  "buildDate": "2026-10-30",
-  "changelog": "Fix Pilot Send tap: poll for the Send button after the deep link, and fall through to the agent loop if the native tap can't find it.",
+  "version": "1.191.0",
+  "buildDate": "2026-11-06",
+  "changelog": "Fix Pilot taking over the phone: agent stops when home launcher or Sainyu shows (user took over). Also fix Gemini thought_signature 400 mislabeled as bad key.",
   "apkUrl": "https://github.com/thee-sailor/sainyu-updates/releases/download/dev/sainyu.apk"
 }
